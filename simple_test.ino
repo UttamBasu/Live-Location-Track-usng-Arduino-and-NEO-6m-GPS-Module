@@ -3,7 +3,7 @@
 
 /* This sample code demonstrates the normal use of a TinyGPS object.
    It requires the use of SoftwareSerial, and assumes that you have a
-   4800-baud serial GPS device hooked up on pins 4(rx) and 3(tx).
+   9600-baud serial GPS device hooked up on pins 2(rx) and 3(tx).
 */
 
 TinyGPS gps;
